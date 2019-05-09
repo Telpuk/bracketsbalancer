@@ -1,5 +1,5 @@
-preset: PSR12
+preset: recommended
 
 enabled:
-  - php_unit_strict
+  - declare_strict_types
 
