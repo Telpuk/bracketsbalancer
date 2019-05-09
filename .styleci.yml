@@ -1,7 +1,5 @@
 preset: recommended
 
-risky: false
-
 enabled:
   - php_unit_strict
 
