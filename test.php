@@ -5,7 +5,6 @@
  * @license   MIT
  * @author    tet
  */
-declare(strict_types=1);
 
 namespace Cycle\ORM\Config;
 
